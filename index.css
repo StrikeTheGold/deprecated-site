@@ -31,7 +31,7 @@ body {
 /*button animation*/
 .draw-border {
   box-shadow: inset 0 0 0 4px #58afd1;
-  color: #0042FF;
+  color: #58afd1;
   transition: color 0.25s 0.0833333333s;
   position: relative;
 }
