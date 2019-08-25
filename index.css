@@ -32,7 +32,7 @@ body {
 .draw-border {
   box-shadow: inset 0 0 0 4px #58afd1;
   color: #58afd1;
-  transition: color 0.25s 0.0833333333s;
+  transition: color 0.2s 0.0833333333s;
   position: relative;
 }
 .draw-border::before, .draw-border::after {
@@ -59,15 +59,15 @@ body {
 }
 .draw-border:hover::before, .draw-border:hover::after {
   border-color: #ffbd00;
-  transition: border-color 0s, width 0.25s, height 0.25s;
+  transition: border-color 0s, width 0.2s, height 0.2s;
   width: 100%;
   height: 100%;
 }
 .draw-border:hover::before {
-  transition-delay: 0s, 0s, 0.25s;
+  transition-delay: 0s, 0s, 0.2s;
 }
 .draw-border:hover::after {
-  transition-delay: 0s, 0.25s, 0s;
+  transition-delay: 0s, 0.2s, 0s;
 }
 
 .btn {
