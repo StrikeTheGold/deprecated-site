@@ -7,8 +7,8 @@ body {
 }
 .title {
 	text-align: center;
-	font-size: 40;
-	margin: 20;
+	font-size: 30;
+	margin: 15;
 }
 .hosts {
 	text-align: center;
@@ -31,7 +31,7 @@ body {
 /*button animation*/
 .draw-border {
   box-shadow: inset 0 0 0 4px #58afd1;
-  color: #58afd1;
+  color: #0042FF;
   transition: color 0.25s 0.0833333333s;
   position: relative;
 }
@@ -75,7 +75,7 @@ body {
   border: none;
   cursor: pointer;
   line-height: 1.5;
-  font: 700 1.2rem 'Roboto Slab', sans-serif;
+  font: 700 1.2rem 'futura-pt', sans-serif;
   padding: 1em 2em;
   letter-spacing: 0.05rem;
 }
