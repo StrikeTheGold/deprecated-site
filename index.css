@@ -15,6 +15,9 @@ body {
 	position: relative;
 	bottom: 15;
 }
+.br {
+    line-height: 10px;
+}
 .center {
 	text-align: center;
 }
