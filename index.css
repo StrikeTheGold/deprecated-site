@@ -7,13 +7,13 @@ body {
 }
 .title {
 	text-align: center;
-	font-size: 25;
-	margin: 10;
+	font-size: 28;
+	margin: 8;
 }
 .hosts {
 	text-align: center;
 	position: relative;
-	bottom: 15;
+	bottom: 10;
 }
 .br {
     line-height: 5px;
