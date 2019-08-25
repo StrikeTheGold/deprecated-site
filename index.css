@@ -7,8 +7,8 @@ body {
 }
 .title {
 	text-align: center;
-	font-size: 30;
-	margin: 15;
+	font-size: 25;
+	margin: 10;
 }
 .hosts {
 	text-align: center;
@@ -16,7 +16,7 @@ body {
 	bottom: 15;
 }
 .br {
-    line-height: 10px;
+    line-height: 5px;
 }
 .center {
 	text-align: center;
