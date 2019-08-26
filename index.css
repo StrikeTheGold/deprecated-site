@@ -7,7 +7,7 @@ body {
 }
 .title {
 	text-align: center;
-	font-size: 24;
+	font-size: 25;
 	margin: 6;
 }
 .hosts {
@@ -23,8 +23,8 @@ body {
 }
 .boltEpisode {
 	display: block;
-	width:600;
-	height:300;
+	width:650;
+	height:325;
 	 margin: 0 auto;
 	 border: 0;
 }
